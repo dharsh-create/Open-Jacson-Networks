@@ -1,5 +1,5 @@
 # NAME: DHARSHINI.V
-# REG NO:21222304003
+# REG NO:212223040038
 #  EXP-6
 # Series Queues with infinite capacity - Open Jackson Network
 14/12/2024
